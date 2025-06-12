@@ -2,7 +2,7 @@
 This project focuses on detecting brain tumors from MRI images using Convolutional Neural Networks (CNNs). Leveraging deep learning techniques, the model classifies whether an input image contains a brain tumor or not. The notebook includes image preprocessing, model training, evaluation, and predictions.
 
 📂 Dataset
-The dataset used for training and evaluation is obtained from Kaggle Brain Tumor Dataset, which consists of MRI images categorized into:
+The dataset used for training and evaluation is obtained from Kaggle [Brain Tumor Dataset,](https://www.kaggle.com/datasets/orvile/brain-tumor-dataset) which consists of MRI images categorized into:
 Tumor
 No Tumor
 
