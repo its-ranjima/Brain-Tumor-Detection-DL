@@ -6,6 +6,9 @@ The dataset used for training and evaluation is obtained from Kaggle [Brain Tumo
 Tumor
 No Tumor
 
+![image](https://github.com/user-attachments/assets/79bf0909-f18f-4f83-b2c5-bfd6483b5e02)
+
+
 Technologies Used
 * Python
 * Jupyter Notebook
