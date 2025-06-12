@@ -6,30 +6,20 @@ The dataset used for training and evaluation is obtained from Kaggle [Brain Tumo
 Tumor
 No Tumor
 
- Technologies Used
-Python
-Jupyter Notebook
-TensorFlow / Keras
-OpenCV
-Matplotlib, Seaborn
-NumPy & Pandas
-Scikit-learn
+Technologies Used
+* Python
+* Jupyter Notebook
+* TensorFlow / Keras
+* OpenCV
+* Matplotlib, Seaborn
+* NumPy & Pandas
+* Scikit-learn
 
 Project Workflow
-Importing Libraries
-All necessary libraries for image processing, model building, and visualization are imported.
+* Importing Libraries.
+* Data Loading and Preprocessing.
+* Model Architecture
+* Model Training
+* Evaluation and Accuracy
+* Prediction on New Images
 
-Data Loading and Preprocessing
-Images are resized, normalized, and augmented (if needed). Folder-based classification is done using image generators.
-
-Model Architecture
-A CNN-based deep learning model is built with layers such as Conv2D, MaxPooling, Flatten, and Dense.
-
-Model Training
-The model is compiled and trained on training data with validation monitoring.
-
-Evaluation and Accuracy
-Accuracy and loss curves are plotted. The trained model is evaluated using classification metrics.
-
-Prediction on New Images
-Sample test images are predicted, and results are visualized using matplotli
